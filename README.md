@@ -1,2 +1,2 @@
 # HTML5-CEV
-The create of a website in this course about, HTML5, CSS3 and JS.
+The creation of a website in this course using HTML5, CSS3 and JS.
